@@ -29,29 +29,7 @@ Here are some of the technologies I’ve worked with during my academic and pers
 
 Here’s an overview of my GitHub activity and the languages I work with:
 
-<div>
-  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview Stats"/>
-  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/languages.svg" alt="Languages Graph"/>
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-This is my contribution activity visualized through the **GitHub Contribution Snake**:
-
-<div>
-  <img src="https://raw.githubusercontent.com/jggomeztocino/jggomeztocino/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</div>
-
----
-
-## 📈 GitHub Stats
-
-Here are my GitHub stats showing my activity and contributions:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdolfoGomezMorera&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
----
+![GitHub Overview Stats](https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/overview.svg)
+![Languages Graph](https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/languages.svg)
 
 Thank you for visiting my profile! 🚀
