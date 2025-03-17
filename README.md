@@ -11,6 +11,12 @@ I'm a **4th-year Computer Science student** with a **Honors degree in Computing*
 
 ---
 
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adolfo-g%C3%B3mez-morera-6477832b9/)
+
+---
+
 ## 🛠️ Skills & Technologies
 
 Here are some of the technologies I’ve worked with during my academic and personal projects:
@@ -27,12 +33,5 @@ Here are some of the technologies I’ve worked with during my academic and pers
 Here are my GitHub stats showing my activity and contributions:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdolfoGomezMorera&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
----
-
-## 📬 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adolfo-g%C3%B3mez-morera-6477832b9/)
-
 
 Thank you for visiting my profile! 🚀
