@@ -7,8 +7,6 @@ I'm a **4th-year Computer Science student** with a **Honors degree in Computing*
 ## 👨‍💻 About Me
 
 - 🎓 **Currently pursuing a degree in Computer Science** with an **Honors mention in Computing**.
-- 💻 **Strong interest in software development**, machine learning, and systems architecture.
-- 🌍 **Active contributor to open-source projects**.
 - 🧑‍🏫 **Always looking for opportunities to grow and collaborate** on exciting projects.
 
 ---
@@ -17,7 +15,8 @@ I'm a **4th-year Computer Science student** with a **Honors degree in Computing*
 
 Here are some of the technologies I’ve worked with during my academic and personal projects:
 
-## Languages and Tools:
+### Languages and Tools:
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,20 +27,31 @@ Here are some of the technologies I’ve worked with during my academic and pers
 
 ## 📊 My Stats
 
-<div>
-  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/overview.svg" alt="stats"/>
-  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/languages.svg" alt="languages graph"/>
-</div>
+Here’s an overview of my GitHub activity and the languages I work with:
 
 <div>
-  <img src="https://raw.githubusercontent.com/jggomeztocino/jggomeztocino/output/github-contribution-grid-snake-dark.svg" alt="snake graph"/>
+  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview Stats"/>
+  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/languages.svg" alt="Languages Graph"/>
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+This is my contribution activity visualized through the **GitHub Contribution Snake**:
+
+<div>
+  <img src="https://raw.githubusercontent.com/jggomeztocino/jggomeztocino/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+Here are my GitHub stats showing my activity and contributions:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdolfoGomezMorera&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+---
 
 Thank you for visiting my profile! 🚀
-
