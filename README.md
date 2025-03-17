@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Adolfo 👋
 
 I'm a **4th-year Computer Science student** with a **Honors degree in Computing**. Passionate about technology, programming, and problem-solving, I love building things that make an impact. I'm always eager to learn new concepts, improve my skills, and contribute to the open-source community.
 
@@ -17,23 +17,25 @@ I'm a **4th-year Computer Science student** with a **Honors degree in Computing*
 
 Here are some of the technologies I’ve worked with during my academic and personal projects:
 
-- **Languages**: Python, Java, C++, JavaScript, HTML/CSS, SQL
-- **Frameworks & Libraries**: React, Node.js, Django, Flask, TensorFlow
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, VS Code, Jupyter, GitHub, GitLab
+## Languages and Tools:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📊 My Coding Experience
+## 📊 My Stats
 
-Here's a breakdown of my experience in various programming languages:
+<div>
+  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/overview.svg" alt="stats"/>
+  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/languages.svg" alt="languages graph"/>
+</div>
 
-- **Python**: 40%
-- **Java**: 25%
-- **C++**: 15%
-- **JavaScript**: 10%
-- **SQL**: 5%
-- **HTML/CSS**: 5%
+<div>
+  <img src="https://raw.githubusercontent.com/jggomeztocino/jggomeztocino/output/github-contribution-grid-snake-dark.svg" alt="snake graph"/>
+</div>
 
 ---
 
