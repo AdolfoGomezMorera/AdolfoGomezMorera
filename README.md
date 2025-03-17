@@ -11,25 +11,39 @@ I'm a **4th-year Computer Science student** with a **Honors degree in Computing*
 
 ---
 
+## 📊 My Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview Stats"/>
+  <img src="https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/languages.svg" alt="Languages Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jggomeztocino/jggomeztocino/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph"/>
+</div>
+
+---
+
 ## 🛠️ Skills & Technologies
 
 Here are some of the technologies I’ve worked with during my academic and personal projects:
 
-### Languages and Tools:
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+## Languages and Tools:
+<div align="center">
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
 ---
 
-## 📊 My Stats
+## 📈 GitHub Stats
 
-Here’s an overview of my GitHub activity and the languages I work with:
-
-![GitHub Overview Stats](https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/overview.svg)
-![Languages Graph](https://raw.githubusercontent.com/AdolfoGomezMorera/github-stats-transparent/output/generated/languages.svg)
+<div align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+</div>
 
 Thank you for visiting my profile! 🚀
+
