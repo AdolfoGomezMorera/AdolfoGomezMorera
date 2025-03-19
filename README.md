@@ -34,6 +34,4 @@ Here are my GitHub stats showing my activity and contributions:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdolfoGomezMorera&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoGomezMorera&layout=compact&theme=dark&hide=java,python)
-
 Thank you for visiting my profile! 🚀
