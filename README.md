@@ -33,8 +33,4 @@ Here are some of the technologies I’ve worked with during my academic and pers
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Here are my GitHub stats showing my activity and contributions:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdolfoGomezMorera&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
 Thank you for visiting my profile! 🚀
